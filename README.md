@@ -15,11 +15,10 @@ Installation
 to install in Linux/MacOS/ windows(powershell)
 Go to your terminal and type :
 
-                           $ git clone https://github.com/Hirukshacoder/Screen-Recorder
+$ git clone https://github.com/Hirukshacoder/Screen-Recorder
                            
-                           $ cd Screen-Recorder
+$ cd Screen-Recorder
                            
-                           $ pip install -r requirements.txt
+$ pip install -r requirements.txt
                            
-                           $ python3 main.py
-                        
+$ python3 main.py
