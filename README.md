@@ -12,11 +12,10 @@ Record the screen and the camera
 
 Installation
 
-to install in linux/ ubuntu go to your terminal and type :
-                           git clone https://github.com/Hirukshacoder/Screen-Recorder
-                           cd Screen-Recorder
-                           pip install -r requirements.txt
-                          
-now you can use our software.
-
-On windows/ Mac system drectly download the code and run from the github.
+to install in Linux/MacOS/ windows(powershell)
+Go to your terminal and type :
+                           $ git clone https://github.com/Hirukshacoder/Screen-Recorder
+                           $ cd Screen-Recorder
+                           $ pip install -r requirements.txt
+                           $ python3 main.py
+                        
